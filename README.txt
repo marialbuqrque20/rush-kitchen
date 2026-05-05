@@ -1,1 +1,0 @@
-Rush Kitchen final corrigido. Suba estes arquivos no GitHub e no Render use: npm install / npm start.
