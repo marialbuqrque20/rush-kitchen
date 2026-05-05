@@ -1,0 +1,1 @@
+Rush Kitchen Chaos Pro: versão refeita com múltiplos pedidos, combo, avatares, animações e multiplayer.
